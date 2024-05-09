@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    min-width: 400px;
+}
+
+
+div {
+    background-color: aliceblue;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+#input-el {
+    margin-top: 10px;
+    width: 100%;
+    border: 1px solid green;
+    padding: 10px;
+}
+
+#input-btn {
+    margin-top: 10px;
+    background-color: green;
+    border: none;
+}
+
+#tab-btn {
+    margin-top: 10px;
+    background-color: green;
+    border: none;
+}
+
+#delete-btn {
+    margin-top: 10px;
+    color: green;
+    background-color: white;
+    border: 1px solid green;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: green;
+}

@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.10.0",
+    "name": "Leads tracker",
+    "description": "Track leads url and revert to them later with the click of a button",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
